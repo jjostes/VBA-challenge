@@ -2,7 +2,7 @@
 
 <h3><b>Overview:</b></h3>
 The purpose of this project was to become familiar with the basics of coding using VBA: naming variables; conditionals; for loops; etc. I believe Excel was used because of the program's row/column layout. This provided an early opportunity to get a visual sense of how data can be stored and manipulated, while still being familiar to non-coders. Additionally, this was the first time creating and uploading to a GitHub repository. 
-</br>
+</br></br>
 
 For this subroutine, three for loops were implemented within an original for loop that progressed through all the worksheets of the excel file, e.g. data for 2014, 2015 & 2016. The nested for loops accomplished the following, respectively:
 <ol>
