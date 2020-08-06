@@ -1,6 +1,6 @@
 # Stock Market Analysis
 
-[![excel-screenshot]]
+![excel-screenshot]
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
